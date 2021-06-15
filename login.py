@@ -95,5 +95,3 @@ def main_screen():
 
 
 # main_screen()
-x, y, z = input("Enter the Input:").split()
-print(x+y+z+'!')
